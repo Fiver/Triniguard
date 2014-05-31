@@ -2,7 +2,7 @@
  	<Properties><Property Name="Solution" Value="TriniGuard">
 +	</Property><Property Name="Solution Archive" Value="E:\Build\Triniguard\TriniGuard.sln">
 +	</Property><Property Name="Date" Value="Saturday, May 31 2014">
-+	</Property><Property Name="Time" Value="13:10">
++	</Property><Property Name="Time" Value="16:35">
 +	</Property></Properties><Event ErrorLevel="0" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Project converted successfully">
 +	</Event><Event ErrorLevel="3" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Converted.">
 +	</Event><Event ErrorLevel="0" Project="" Source="TriniGuard.sln" Description="Solution converted successfully.">
