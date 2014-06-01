@@ -1,8 +1,8 @@
  	<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
  	<Properties><Property Name="Solution" Value="TriniGuard">
-+	</Property><Property Name="Solution Archive" Value="E:\Build\Triniguard\TriniGuard.sln">
-+	</Property><Property Name="Date" Value="Saturday, May 31 2014">
-+	</Property><Property Name="Time" Value="16:35">
++	</Property><Property Name="Solution Archive" Value="C:\Triniguard\TriniGuard.sln">
++	</Property><Property Name="Date" Value="Saturday June 1, 2014">
++	</Property><Property Name="Time" Value="02:32">
 +	</Property></Properties><Event ErrorLevel="0" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Project converted successfully">
 +	</Event><Event ErrorLevel="3" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Converted.">
 +	</Event><Event ErrorLevel="0" Project="" Source="TriniGuard.sln" Description="Solution converted successfully.">
