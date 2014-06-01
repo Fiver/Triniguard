@@ -18,6 +18,8 @@ TriniGuard Copyright 2010 Mike Carter
 
 Please leave credit where due.
 
-
 Mike Carter
 e-mail: freq@live.com
+
+Restarter and improvements added by Eilo
+e-mail: eilo2518@gmail.com
